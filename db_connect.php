@@ -5,7 +5,7 @@
     $password = "";
 
     try{
-        $conn = new PDO("mysql:host=$server; port=$port; dbname=furniture_store", $user, $password);
+        $conn = new PDO("mysql:host=$server; port=$port; dbname=cosmetics_store", $user, $password);
         //echo "connection got";
         $conn -> setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
     }

@@ -1,0 +1,53 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #cce1f7;
+    margin: 0;
+}
+
+/* Sidebar */
+.sidebar {
+    height: fit-content;
+    background-color: #fefefe;
+    min-height: 100vh;
+    color: rgb(239, 190, 190);
+    padding-top: 1rem;
+    border-right: 1px solid #340606;
+    overflow-y: auto;
+}
+
+.sidebar h4 {
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.sidebar .nav-link {
+    color: #000000;
+}
+
+.sidebar .nav-link:hover, .sidebar .nav-link.active {
+    background-color: #e6a1f1;
+    border-radius: 5px;
+}
+
+/* Navbar */
+.navbar {
+    display: flex;
+    border-bottom: 1px solid #ddd;
+}
+
+.navbar .form-control {
+    border-radius: 20px;
+}
+
+/* Content */
+.dashboard-header {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #333;
+}
+
+.content {
+    padding: 2rem 1rem;
+}
+
