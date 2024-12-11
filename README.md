@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Git Large File Storage
 
 [![CI status][ci_badge]][ci_url]
@@ -248,3 +249,6 @@ In alphabetical order:
 [rubyist-user]: https://github.com/rubyist
 [technoweenie-user]: https://github.com/technoweenie
 [ttaylorr-user]: https://github.com/ttaylorr
+=======
+# cosmeticsStore
+>>>>>>> 09505e04f70552c0dd85e7114ee2f8aab72fae90
